@@ -1,7 +1,7 @@
 # Tutopy
 Tutorials and courses in python
 
-1. Matplotlib tutorial: https://github.com/theodorekhadir/Tutopy/blob/main/matpltolib_tutorial.ipynb
+1. Matplotlib tutorial: https://github.com/theodorekhadir/Tutopy/blob/main/matplotlib/matpltolib_tutorial.ipynb
 - Defining the figure and subplots
 - Merging subplots using gridspec
 - Controling the style of the axes
