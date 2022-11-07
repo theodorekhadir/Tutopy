@@ -7,6 +7,6 @@ Tutorials and courses in python
 - Controling the style of the axes
 - Controling the position of the colorbar
 - Practice on a more complex figure
-![alt text](https://github.com/theodorekhadir/Tutopy/blob/main/fig1_grl2022.png)
+![alt text](https://github.com/theodorekhadir/Tutopy/blob/main/matplotlib/fig1_grl2022.png)
 - Cartopy (<font color='red'>coming soon!</font>)
 
